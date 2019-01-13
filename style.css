@@ -4,11 +4,26 @@
   }
 
 body{
+    font-size: 12pt;
     margin: 0;
+    background: black;
+    text-align:center;
+}
+
+#main{
+    max-width: 75vh;
+    margin: auto;
 }
 
 #score{
     font-family: "Minecraft";
     font-size: 30px;
     padding: 30px;
+#canvas{
+    display: inline;
+    
+    text-align:center;
+    margin: 10px;
+}
+
 }
